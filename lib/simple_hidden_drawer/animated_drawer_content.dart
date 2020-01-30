@@ -37,7 +37,7 @@ class AnimatedDrawerContent extends StatefulWidget {
 }
 
 class _AnimatedDrawerContentState extends State<AnimatedDrawerContent> {
-  static const double WIDTH_GESTURE = 30.0;
+  static const double WIDTH_GESTURE = 60.0;
   static const double HEIGHT_APPBAR = 80.0;
   static const double BLUR_SHADOW = 20.0;
   RenderBox _box;
